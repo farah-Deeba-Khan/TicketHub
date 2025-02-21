@@ -1,0 +1,349 @@
+F:\Project\Code Dotnet\backend\tickethub\obj\Debug\net9.0\tickethub.csproj.AssemblyReference.cache
+F:\Project\Code Dotnet\backend\tickethub\obj\Debug\net9.0\tickethub.GeneratedMSBuildEditorConfig.editorconfig
+F:\Project\Code Dotnet\backend\tickethub\obj\Debug\net9.0\tickethub.AssemblyInfoInputs.cache
+F:\Project\Code Dotnet\backend\tickethub\obj\Debug\net9.0\tickethub.AssemblyInfo.cs
+F:\Project\Code Dotnet\backend\tickethub\obj\Debug\net9.0\tickethub.csproj.CoreCompileInputs.cache
+F:\Project\Code Dotnet\backend\tickethub\obj\Debug\net9.0\tickethub.MvcApplicationPartsAssemblyInfo.cache
+F:\Project\Code Dotnet\backend\tickethub\bin\Debug\net9.0\appsettings.Development.json
+F:\Project\Code Dotnet\backend\tickethub\bin\Debug\net9.0\appsettings.json
+F:\Project\Code Dotnet\backend\tickethub\bin\Debug\net9.0\tickethub.staticwebassets.endpoints.json
+F:\Project\Code Dotnet\backend\tickethub\bin\Debug\net9.0\tickethub.exe
+F:\Project\Code Dotnet\backend\tickethub\bin\Debug\net9.0\tickethub.deps.json
+F:\Project\Code Dotnet\backend\tickethub\bin\Debug\net9.0\tickethub.runtimeconfig.json
+F:\Project\Code Dotnet\backend\tickethub\bin\Debug\net9.0\tickethub.dll
+F:\Project\Code Dotnet\backend\tickethub\bin\Debug\net9.0\tickethub.pdb
+F:\Project\Code Dotnet\backend\tickethub\bin\Debug\net9.0\Humanizer.dll
+F:\Project\Code Dotnet\backend\tickethub\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Project\Code Dotnet\backend\tickethub\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+F:\Project\Code Dotnet\backend\tickethub\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+F:\Project\Code Dotnet\backend\tickethub\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\Project\Code Dotnet\backend\tickethub\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+F:\Project\Code Dotnet\backend\tickethub\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+F:\Project\Code Dotnet\backend\tickethub\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Project\Code Dotnet\backend\tickethub\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\Project\Code Dotnet\backend\tickethub\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Project\Code Dotnet\backend\tickethub\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+F:\Project\Code Dotnet\backend\tickethub\bin\Debug\net9.0\Mono.TextTemplating.dll
+F:\Project\Code Dotnet\backend\tickethub\bin\Debug\net9.0\MySqlConnector.dll
+F:\Project\Code Dotnet\backend\tickethub\bin\Debug\net9.0\Pomelo.EntityFrameworkCore.MySql.dll
+F:\Project\Code Dotnet\backend\tickethub\bin\Debug\net9.0\System.CodeDom.dll
+F:\Project\Code Dotnet\backend\tickethub\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+F:\Project\Code Dotnet\backend\tickethub\bin\Debug\net9.0\System.Composition.Convention.dll
+F:\Project\Code Dotnet\backend\tickethub\bin\Debug\net9.0\System.Composition.Hosting.dll
+F:\Project\Code Dotnet\backend\tickethub\bin\Debug\net9.0\System.Composition.Runtime.dll
+F:\Project\Code Dotnet\backend\tickethub\bin\Debug\net9.0\System.Composition.TypedParts.dll
+F:\Project\Code Dotnet\backend\tickethub\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+F:\Project\Code Dotnet\backend\tickethub\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+F:\Project\Code Dotnet\backend\tickethub\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+F:\Project\Code Dotnet\backend\tickethub\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+F:\Project\Code Dotnet\backend\tickethub\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+F:\Project\Code Dotnet\backend\tickethub\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+F:\Project\Code Dotnet\backend\tickethub\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+F:\Project\Code Dotnet\backend\tickethub\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+F:\Project\Code Dotnet\backend\tickethub\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\Project\Code Dotnet\backend\tickethub\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+F:\Project\Code Dotnet\backend\tickethub\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+F:\Project\Code Dotnet\backend\tickethub\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\Project\Code Dotnet\backend\tickethub\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\Project\Code Dotnet\backend\tickethub\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Project\Code Dotnet\backend\tickethub\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Project\Code Dotnet\backend\tickethub\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Project\Code Dotnet\backend\tickethub\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Project\Code Dotnet\backend\tickethub\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Project\Code Dotnet\backend\tickethub\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Project\Code Dotnet\backend\tickethub\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Project\Code Dotnet\backend\tickethub\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Project\Code Dotnet\backend\tickethub\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Project\Code Dotnet\backend\tickethub\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Project\Code Dotnet\backend\tickethub\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Project\Code Dotnet\backend\tickethub\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Project\Code Dotnet\backend\tickethub\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Project\Code Dotnet\backend\tickethub\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Project\Code Dotnet\backend\tickethub\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Project\Code Dotnet\backend\tickethub\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Project\Code Dotnet\backend\tickethub\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Project\Code Dotnet\backend\tickethub\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Project\Code Dotnet\backend\tickethub\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Project\Code Dotnet\backend\tickethub\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Project\Code Dotnet\backend\tickethub\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Project\Code Dotnet\backend\tickethub\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Project\Code Dotnet\backend\tickethub\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Project\Code Dotnet\backend\tickethub\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Project\Code Dotnet\backend\tickethub\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Project\Code Dotnet\backend\tickethub\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Project\Code Dotnet\backend\tickethub\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Project\Code Dotnet\backend\tickethub\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Project\Code Dotnet\backend\tickethub\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Project\Code Dotnet\backend\tickethub\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Project\Code Dotnet\backend\tickethub\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Project\Code Dotnet\backend\tickethub\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Project\Code Dotnet\backend\tickethub\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Project\Code Dotnet\backend\tickethub\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Project\Code Dotnet\backend\tickethub\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Project\Code Dotnet\backend\tickethub\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Project\Code Dotnet\backend\tickethub\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Project\Code Dotnet\backend\tickethub\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Project\Code Dotnet\backend\tickethub\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Project\Code Dotnet\backend\tickethub\obj\Debug\net9.0\scopedcss\bundle\tickethub.styles.css
+F:\Project\Code Dotnet\backend\tickethub\obj\Debug\net9.0\staticwebassets.build.json
+F:\Project\Code Dotnet\backend\tickethub\obj\Debug\net9.0\staticwebassets.development.json
+F:\Project\Code Dotnet\backend\tickethub\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+F:\Project\Code Dotnet\backend\tickethub\obj\Debug\net9.0\staticwebassets\msbuild.tickethub.Microsoft.AspNetCore.StaticWebAssets.props
+F:\Project\Code Dotnet\backend\tickethub\obj\Debug\net9.0\staticwebassets\msbuild.tickethub.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+F:\Project\Code Dotnet\backend\tickethub\obj\Debug\net9.0\staticwebassets\msbuild.build.tickethub.props
+F:\Project\Code Dotnet\backend\tickethub\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.tickethub.props
+F:\Project\Code Dotnet\backend\tickethub\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.tickethub.props
+F:\Project\Code Dotnet\backend\tickethub\obj\Debug\net9.0\staticwebassets.pack.json
+F:\Project\Code Dotnet\backend\tickethub\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+F:\Project\Code Dotnet\backend\tickethub\obj\Debug\net9.0\tickethub.csproj.Up2Date
+F:\Project\Code Dotnet\backend\tickethub\obj\Debug\net9.0\tickethub.dll
+F:\Project\Code Dotnet\backend\tickethub\obj\Debug\net9.0\refint\tickethub.dll
+F:\Project\Code Dotnet\backend\tickethub\obj\Debug\net9.0\tickethub.pdb
+F:\Project\Code Dotnet\backend\tickethub\obj\Debug\net9.0\tickethub.genruntimeconfig.cache
+F:\Project\Code Dotnet\backend\tickethub\obj\Debug\net9.0\ref\tickethub.dll
+F:\Project\Code Dotnet\backend\tickethub\obj\Debug\net9.0\tickethub.sourcelink.json
+F:\Project\Code Dotnet\backend\tickethub\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+F:\Project\Code Dotnet\backend\tickethub\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+F:\Project\Code Dotnet\backend\tickethub\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Project\Code Dotnet\backend\tickethub\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+F:\Project\Code Dotnet\backend\tickethub\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+F:\Project\Code Dotnet\backend\tickethub\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Project\Code Dotnet\backend\tickethub\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+F:\Project\Code Dotnet\backend\tickethub\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+F:\Project\Code Dotnet\backend\tickethub\bin\Debug\net9.0\frontend\package-lock.json
+F:\Project\Code Dotnet\backend\tickethub\bin\Debug\net9.0\frontend\package.json
+F:\Project\Code Dotnet\backend\tickethub\bin\Debug\net9.0\AutoMapper.dll
+D:\CDAC\Tickethub Dotnet updated\TicketHub-MS.NET\backend\tickethub\bin\Debug\net9.0\appsettings.Development.json
+D:\CDAC\Tickethub Dotnet updated\TicketHub-MS.NET\backend\tickethub\bin\Debug\net9.0\appsettings.json
+D:\CDAC\Tickethub Dotnet updated\TicketHub-MS.NET\backend\tickethub\bin\Debug\net9.0\frontend\package-lock.json
+D:\CDAC\Tickethub Dotnet updated\TicketHub-MS.NET\backend\tickethub\bin\Debug\net9.0\frontend\package.json
+D:\CDAC\Tickethub Dotnet updated\TicketHub-MS.NET\backend\tickethub\bin\Debug\net9.0\tickethub.staticwebassets.endpoints.json
+D:\CDAC\Tickethub Dotnet updated\TicketHub-MS.NET\backend\tickethub\bin\Debug\net9.0\tickethub.exe
+D:\CDAC\Tickethub Dotnet updated\TicketHub-MS.NET\backend\tickethub\bin\Debug\net9.0\tickethub.deps.json
+D:\CDAC\Tickethub Dotnet updated\TicketHub-MS.NET\backend\tickethub\bin\Debug\net9.0\tickethub.runtimeconfig.json
+D:\CDAC\Tickethub Dotnet updated\TicketHub-MS.NET\backend\tickethub\bin\Debug\net9.0\tickethub.dll
+D:\CDAC\Tickethub Dotnet updated\TicketHub-MS.NET\backend\tickethub\bin\Debug\net9.0\tickethub.pdb
+D:\CDAC\Tickethub Dotnet updated\TicketHub-MS.NET\backend\tickethub\bin\Debug\net9.0\AutoMapper.dll
+D:\CDAC\Tickethub Dotnet updated\TicketHub-MS.NET\backend\tickethub\bin\Debug\net9.0\Humanizer.dll
+D:\CDAC\Tickethub Dotnet updated\TicketHub-MS.NET\backend\tickethub\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\CDAC\Tickethub Dotnet updated\TicketHub-MS.NET\backend\tickethub\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\CDAC\Tickethub Dotnet updated\TicketHub-MS.NET\backend\tickethub\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+D:\CDAC\Tickethub Dotnet updated\TicketHub-MS.NET\backend\tickethub\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\CDAC\Tickethub Dotnet updated\TicketHub-MS.NET\backend\tickethub\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\CDAC\Tickethub Dotnet updated\TicketHub-MS.NET\backend\tickethub\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\CDAC\Tickethub Dotnet updated\TicketHub-MS.NET\backend\tickethub\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+D:\CDAC\Tickethub Dotnet updated\TicketHub-MS.NET\backend\tickethub\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\CDAC\Tickethub Dotnet updated\TicketHub-MS.NET\backend\tickethub\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\CDAC\Tickethub Dotnet updated\TicketHub-MS.NET\backend\tickethub\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\CDAC\Tickethub Dotnet updated\TicketHub-MS.NET\backend\tickethub\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+D:\CDAC\Tickethub Dotnet updated\TicketHub-MS.NET\backend\tickethub\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+D:\CDAC\Tickethub Dotnet updated\TicketHub-MS.NET\backend\tickethub\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\CDAC\Tickethub Dotnet updated\TicketHub-MS.NET\backend\tickethub\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+D:\CDAC\Tickethub Dotnet updated\TicketHub-MS.NET\backend\tickethub\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+D:\CDAC\Tickethub Dotnet updated\TicketHub-MS.NET\backend\tickethub\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\CDAC\Tickethub Dotnet updated\TicketHub-MS.NET\backend\tickethub\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+D:\CDAC\Tickethub Dotnet updated\TicketHub-MS.NET\backend\tickethub\bin\Debug\net9.0\Mono.TextTemplating.dll
+D:\CDAC\Tickethub Dotnet updated\TicketHub-MS.NET\backend\tickethub\bin\Debug\net9.0\MySqlConnector.dll
+D:\CDAC\Tickethub Dotnet updated\TicketHub-MS.NET\backend\tickethub\bin\Debug\net9.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\CDAC\Tickethub Dotnet updated\TicketHub-MS.NET\backend\tickethub\bin\Debug\net9.0\System.CodeDom.dll
+D:\CDAC\Tickethub Dotnet updated\TicketHub-MS.NET\backend\tickethub\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+D:\CDAC\Tickethub Dotnet updated\TicketHub-MS.NET\backend\tickethub\bin\Debug\net9.0\System.Composition.Convention.dll
+D:\CDAC\Tickethub Dotnet updated\TicketHub-MS.NET\backend\tickethub\bin\Debug\net9.0\System.Composition.Hosting.dll
+D:\CDAC\Tickethub Dotnet updated\TicketHub-MS.NET\backend\tickethub\bin\Debug\net9.0\System.Composition.Runtime.dll
+D:\CDAC\Tickethub Dotnet updated\TicketHub-MS.NET\backend\tickethub\bin\Debug\net9.0\System.Composition.TypedParts.dll
+D:\CDAC\Tickethub Dotnet updated\TicketHub-MS.NET\backend\tickethub\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+D:\CDAC\Tickethub Dotnet updated\TicketHub-MS.NET\backend\tickethub\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\CDAC\Tickethub Dotnet updated\TicketHub-MS.NET\backend\tickethub\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\CDAC\Tickethub Dotnet updated\TicketHub-MS.NET\backend\tickethub\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\CDAC\Tickethub Dotnet updated\TicketHub-MS.NET\backend\tickethub\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\CDAC\Tickethub Dotnet updated\TicketHub-MS.NET\backend\tickethub\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\CDAC\Tickethub Dotnet updated\TicketHub-MS.NET\backend\tickethub\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\CDAC\Tickethub Dotnet updated\TicketHub-MS.NET\backend\tickethub\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\CDAC\Tickethub Dotnet updated\TicketHub-MS.NET\backend\tickethub\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\CDAC\Tickethub Dotnet updated\TicketHub-MS.NET\backend\tickethub\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\CDAC\Tickethub Dotnet updated\TicketHub-MS.NET\backend\tickethub\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\CDAC\Tickethub Dotnet updated\TicketHub-MS.NET\backend\tickethub\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\CDAC\Tickethub Dotnet updated\TicketHub-MS.NET\backend\tickethub\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\CDAC\Tickethub Dotnet updated\TicketHub-MS.NET\backend\tickethub\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\CDAC\Tickethub Dotnet updated\TicketHub-MS.NET\backend\tickethub\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CDAC\Tickethub Dotnet updated\TicketHub-MS.NET\backend\tickethub\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CDAC\Tickethub Dotnet updated\TicketHub-MS.NET\backend\tickethub\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CDAC\Tickethub Dotnet updated\TicketHub-MS.NET\backend\tickethub\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CDAC\Tickethub Dotnet updated\TicketHub-MS.NET\backend\tickethub\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CDAC\Tickethub Dotnet updated\TicketHub-MS.NET\backend\tickethub\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CDAC\Tickethub Dotnet updated\TicketHub-MS.NET\backend\tickethub\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CDAC\Tickethub Dotnet updated\TicketHub-MS.NET\backend\tickethub\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CDAC\Tickethub Dotnet updated\TicketHub-MS.NET\backend\tickethub\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CDAC\Tickethub Dotnet updated\TicketHub-MS.NET\backend\tickethub\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CDAC\Tickethub Dotnet updated\TicketHub-MS.NET\backend\tickethub\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CDAC\Tickethub Dotnet updated\TicketHub-MS.NET\backend\tickethub\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CDAC\Tickethub Dotnet updated\TicketHub-MS.NET\backend\tickethub\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CDAC\Tickethub Dotnet updated\TicketHub-MS.NET\backend\tickethub\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CDAC\Tickethub Dotnet updated\TicketHub-MS.NET\backend\tickethub\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CDAC\Tickethub Dotnet updated\TicketHub-MS.NET\backend\tickethub\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CDAC\Tickethub Dotnet updated\TicketHub-MS.NET\backend\tickethub\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CDAC\Tickethub Dotnet updated\TicketHub-MS.NET\backend\tickethub\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CDAC\Tickethub Dotnet updated\TicketHub-MS.NET\backend\tickethub\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CDAC\Tickethub Dotnet updated\TicketHub-MS.NET\backend\tickethub\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CDAC\Tickethub Dotnet updated\TicketHub-MS.NET\backend\tickethub\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CDAC\Tickethub Dotnet updated\TicketHub-MS.NET\backend\tickethub\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CDAC\Tickethub Dotnet updated\TicketHub-MS.NET\backend\tickethub\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CDAC\Tickethub Dotnet updated\TicketHub-MS.NET\backend\tickethub\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CDAC\Tickethub Dotnet updated\TicketHub-MS.NET\backend\tickethub\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CDAC\Tickethub Dotnet updated\TicketHub-MS.NET\backend\tickethub\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CDAC\Tickethub Dotnet updated\TicketHub-MS.NET\backend\tickethub\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CDAC\Tickethub Dotnet updated\TicketHub-MS.NET\backend\tickethub\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CDAC\Tickethub Dotnet updated\TicketHub-MS.NET\backend\tickethub\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CDAC\Tickethub Dotnet updated\TicketHub-MS.NET\backend\tickethub\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CDAC\Tickethub Dotnet updated\TicketHub-MS.NET\backend\tickethub\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CDAC\Tickethub Dotnet updated\TicketHub-MS.NET\backend\tickethub\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CDAC\Tickethub Dotnet updated\TicketHub-MS.NET\backend\tickethub\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CDAC\Tickethub Dotnet updated\TicketHub-MS.NET\backend\tickethub\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CDAC\Tickethub Dotnet updated\TicketHub-MS.NET\backend\tickethub\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CDAC\Tickethub Dotnet updated\TicketHub-MS.NET\backend\tickethub\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CDAC\Tickethub Dotnet updated\TicketHub-MS.NET\backend\tickethub\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CDAC\Tickethub Dotnet updated\TicketHub-MS.NET\backend\tickethub\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CDAC\Tickethub Dotnet updated\TicketHub-MS.NET\backend\tickethub\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CDAC\Tickethub Dotnet updated\TicketHub-MS.NET\backend\tickethub\obj\Debug\net9.0\tickethub.csproj.AssemblyReference.cache
+D:\CDAC\Tickethub Dotnet updated\TicketHub-MS.NET\backend\tickethub\obj\Debug\net9.0\tickethub.GeneratedMSBuildEditorConfig.editorconfig
+D:\CDAC\Tickethub Dotnet updated\TicketHub-MS.NET\backend\tickethub\obj\Debug\net9.0\tickethub.AssemblyInfoInputs.cache
+D:\CDAC\Tickethub Dotnet updated\TicketHub-MS.NET\backend\tickethub\obj\Debug\net9.0\tickethub.AssemblyInfo.cs
+D:\CDAC\Tickethub Dotnet updated\TicketHub-MS.NET\backend\tickethub\obj\Debug\net9.0\tickethub.csproj.CoreCompileInputs.cache
+D:\CDAC\Tickethub Dotnet updated\TicketHub-MS.NET\backend\tickethub\obj\Debug\net9.0\tickethub.MvcApplicationPartsAssemblyInfo.cache
+D:\CDAC\Tickethub Dotnet updated\TicketHub-MS.NET\backend\tickethub\obj\Debug\net9.0\tickethub.sourcelink.json
+D:\CDAC\Tickethub Dotnet updated\TicketHub-MS.NET\backend\tickethub\obj\Debug\net9.0\scopedcss\bundle\tickethub.styles.css
+D:\CDAC\Tickethub Dotnet updated\TicketHub-MS.NET\backend\tickethub\obj\Debug\net9.0\staticwebassets.build.json
+D:\CDAC\Tickethub Dotnet updated\TicketHub-MS.NET\backend\tickethub\obj\Debug\net9.0\staticwebassets.development.json
+D:\CDAC\Tickethub Dotnet updated\TicketHub-MS.NET\backend\tickethub\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\CDAC\Tickethub Dotnet updated\TicketHub-MS.NET\backend\tickethub\obj\Debug\net9.0\staticwebassets\msbuild.tickethub.Microsoft.AspNetCore.StaticWebAssets.props
+D:\CDAC\Tickethub Dotnet updated\TicketHub-MS.NET\backend\tickethub\obj\Debug\net9.0\staticwebassets\msbuild.tickethub.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\CDAC\Tickethub Dotnet updated\TicketHub-MS.NET\backend\tickethub\obj\Debug\net9.0\staticwebassets\msbuild.build.tickethub.props
+D:\CDAC\Tickethub Dotnet updated\TicketHub-MS.NET\backend\tickethub\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.tickethub.props
+D:\CDAC\Tickethub Dotnet updated\TicketHub-MS.NET\backend\tickethub\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.tickethub.props
+D:\CDAC\Tickethub Dotnet updated\TicketHub-MS.NET\backend\tickethub\obj\Debug\net9.0\staticwebassets.pack.json
+D:\CDAC\Tickethub Dotnet updated\TicketHub-MS.NET\backend\tickethub\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+D:\CDAC\Tickethub Dotnet updated\TicketHub-MS.NET\backend\tickethub\obj\Debug\net9.0\tickethub.csproj.Up2Date
+D:\CDAC\Tickethub Dotnet updated\TicketHub-MS.NET\backend\tickethub\obj\Debug\net9.0\tickethub.dll
+D:\CDAC\Tickethub Dotnet updated\TicketHub-MS.NET\backend\tickethub\obj\Debug\net9.0\refint\tickethub.dll
+D:\CDAC\Tickethub Dotnet updated\TicketHub-MS.NET\backend\tickethub\obj\Debug\net9.0\tickethub.pdb
+D:\CDAC\Tickethub Dotnet updated\TicketHub-MS.NET\backend\tickethub\obj\Debug\net9.0\tickethub.genruntimeconfig.cache
+D:\CDAC\Tickethub Dotnet updated\TicketHub-MS.NET\backend\tickethub\obj\Debug\net9.0\ref\tickethub.dll
+F:\Project\Code\Dotnet\TicketHub-MS.NET\backend\tickethub\bin\Debug\net9.0\appsettings.Development.json
+F:\Project\Code\Dotnet\TicketHub-MS.NET\backend\tickethub\bin\Debug\net9.0\appsettings.json
+F:\Project\Code\Dotnet\TicketHub-MS.NET\backend\tickethub\bin\Debug\net9.0\frontend\package-lock.json
+F:\Project\Code\Dotnet\TicketHub-MS.NET\backend\tickethub\bin\Debug\net9.0\frontend\package.json
+F:\Project\Code\Dotnet\TicketHub-MS.NET\backend\tickethub\bin\Debug\net9.0\tickethub.staticwebassets.endpoints.json
+F:\Project\Code\Dotnet\TicketHub-MS.NET\backend\tickethub\bin\Debug\net9.0\tickethub.exe
+F:\Project\Code\Dotnet\TicketHub-MS.NET\backend\tickethub\bin\Debug\net9.0\tickethub.deps.json
+F:\Project\Code\Dotnet\TicketHub-MS.NET\backend\tickethub\bin\Debug\net9.0\tickethub.runtimeconfig.json
+F:\Project\Code\Dotnet\TicketHub-MS.NET\backend\tickethub\bin\Debug\net9.0\tickethub.dll
+F:\Project\Code\Dotnet\TicketHub-MS.NET\backend\tickethub\bin\Debug\net9.0\tickethub.pdb
+F:\Project\Code\Dotnet\TicketHub-MS.NET\backend\tickethub\bin\Debug\net9.0\AutoMapper.dll
+F:\Project\Code\Dotnet\TicketHub-MS.NET\backend\tickethub\bin\Debug\net9.0\Humanizer.dll
+F:\Project\Code\Dotnet\TicketHub-MS.NET\backend\tickethub\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+F:\Project\Code\Dotnet\TicketHub-MS.NET\backend\tickethub\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Project\Code\Dotnet\TicketHub-MS.NET\backend\tickethub\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+F:\Project\Code\Dotnet\TicketHub-MS.NET\backend\tickethub\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+F:\Project\Code\Dotnet\TicketHub-MS.NET\backend\tickethub\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\Project\Code\Dotnet\TicketHub-MS.NET\backend\tickethub\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+F:\Project\Code\Dotnet\TicketHub-MS.NET\backend\tickethub\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+F:\Project\Code\Dotnet\TicketHub-MS.NET\backend\tickethub\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Project\Code\Dotnet\TicketHub-MS.NET\backend\tickethub\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\Project\Code\Dotnet\TicketHub-MS.NET\backend\tickethub\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Project\Code\Dotnet\TicketHub-MS.NET\backend\tickethub\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+F:\Project\Code\Dotnet\TicketHub-MS.NET\backend\tickethub\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+F:\Project\Code\Dotnet\TicketHub-MS.NET\backend\tickethub\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Project\Code\Dotnet\TicketHub-MS.NET\backend\tickethub\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+F:\Project\Code\Dotnet\TicketHub-MS.NET\backend\tickethub\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+F:\Project\Code\Dotnet\TicketHub-MS.NET\backend\tickethub\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Project\Code\Dotnet\TicketHub-MS.NET\backend\tickethub\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+F:\Project\Code\Dotnet\TicketHub-MS.NET\backend\tickethub\bin\Debug\net9.0\Mono.TextTemplating.dll
+F:\Project\Code\Dotnet\TicketHub-MS.NET\backend\tickethub\bin\Debug\net9.0\MySqlConnector.dll
+F:\Project\Code\Dotnet\TicketHub-MS.NET\backend\tickethub\bin\Debug\net9.0\Pomelo.EntityFrameworkCore.MySql.dll
+F:\Project\Code\Dotnet\TicketHub-MS.NET\backend\tickethub\bin\Debug\net9.0\System.CodeDom.dll
+F:\Project\Code\Dotnet\TicketHub-MS.NET\backend\tickethub\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+F:\Project\Code\Dotnet\TicketHub-MS.NET\backend\tickethub\bin\Debug\net9.0\System.Composition.Convention.dll
+F:\Project\Code\Dotnet\TicketHub-MS.NET\backend\tickethub\bin\Debug\net9.0\System.Composition.Hosting.dll
+F:\Project\Code\Dotnet\TicketHub-MS.NET\backend\tickethub\bin\Debug\net9.0\System.Composition.Runtime.dll
+F:\Project\Code\Dotnet\TicketHub-MS.NET\backend\tickethub\bin\Debug\net9.0\System.Composition.TypedParts.dll
+F:\Project\Code\Dotnet\TicketHub-MS.NET\backend\tickethub\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+F:\Project\Code\Dotnet\TicketHub-MS.NET\backend\tickethub\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+F:\Project\Code\Dotnet\TicketHub-MS.NET\backend\tickethub\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+F:\Project\Code\Dotnet\TicketHub-MS.NET\backend\tickethub\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+F:\Project\Code\Dotnet\TicketHub-MS.NET\backend\tickethub\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+F:\Project\Code\Dotnet\TicketHub-MS.NET\backend\tickethub\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+F:\Project\Code\Dotnet\TicketHub-MS.NET\backend\tickethub\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+F:\Project\Code\Dotnet\TicketHub-MS.NET\backend\tickethub\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+F:\Project\Code\Dotnet\TicketHub-MS.NET\backend\tickethub\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+F:\Project\Code\Dotnet\TicketHub-MS.NET\backend\tickethub\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\Project\Code\Dotnet\TicketHub-MS.NET\backend\tickethub\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+F:\Project\Code\Dotnet\TicketHub-MS.NET\backend\tickethub\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+F:\Project\Code\Dotnet\TicketHub-MS.NET\backend\tickethub\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\Project\Code\Dotnet\TicketHub-MS.NET\backend\tickethub\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\Project\Code\Dotnet\TicketHub-MS.NET\backend\tickethub\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Project\Code\Dotnet\TicketHub-MS.NET\backend\tickethub\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Project\Code\Dotnet\TicketHub-MS.NET\backend\tickethub\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Project\Code\Dotnet\TicketHub-MS.NET\backend\tickethub\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Project\Code\Dotnet\TicketHub-MS.NET\backend\tickethub\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Project\Code\Dotnet\TicketHub-MS.NET\backend\tickethub\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Project\Code\Dotnet\TicketHub-MS.NET\backend\tickethub\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Project\Code\Dotnet\TicketHub-MS.NET\backend\tickethub\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Project\Code\Dotnet\TicketHub-MS.NET\backend\tickethub\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Project\Code\Dotnet\TicketHub-MS.NET\backend\tickethub\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Project\Code\Dotnet\TicketHub-MS.NET\backend\tickethub\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Project\Code\Dotnet\TicketHub-MS.NET\backend\tickethub\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Project\Code\Dotnet\TicketHub-MS.NET\backend\tickethub\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Project\Code\Dotnet\TicketHub-MS.NET\backend\tickethub\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Project\Code\Dotnet\TicketHub-MS.NET\backend\tickethub\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Project\Code\Dotnet\TicketHub-MS.NET\backend\tickethub\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Project\Code\Dotnet\TicketHub-MS.NET\backend\tickethub\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Project\Code\Dotnet\TicketHub-MS.NET\backend\tickethub\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Project\Code\Dotnet\TicketHub-MS.NET\backend\tickethub\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Project\Code\Dotnet\TicketHub-MS.NET\backend\tickethub\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Project\Code\Dotnet\TicketHub-MS.NET\backend\tickethub\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Project\Code\Dotnet\TicketHub-MS.NET\backend\tickethub\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Project\Code\Dotnet\TicketHub-MS.NET\backend\tickethub\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Project\Code\Dotnet\TicketHub-MS.NET\backend\tickethub\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Project\Code\Dotnet\TicketHub-MS.NET\backend\tickethub\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Project\Code\Dotnet\TicketHub-MS.NET\backend\tickethub\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Project\Code\Dotnet\TicketHub-MS.NET\backend\tickethub\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Project\Code\Dotnet\TicketHub-MS.NET\backend\tickethub\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Project\Code\Dotnet\TicketHub-MS.NET\backend\tickethub\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Project\Code\Dotnet\TicketHub-MS.NET\backend\tickethub\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Project\Code\Dotnet\TicketHub-MS.NET\backend\tickethub\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Project\Code\Dotnet\TicketHub-MS.NET\backend\tickethub\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Project\Code\Dotnet\TicketHub-MS.NET\backend\tickethub\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Project\Code\Dotnet\TicketHub-MS.NET\backend\tickethub\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Project\Code\Dotnet\TicketHub-MS.NET\backend\tickethub\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Project\Code\Dotnet\TicketHub-MS.NET\backend\tickethub\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Project\Code\Dotnet\TicketHub-MS.NET\backend\tickethub\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Project\Code\Dotnet\TicketHub-MS.NET\backend\tickethub\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Project\Code\Dotnet\TicketHub-MS.NET\backend\tickethub\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Project\Code\Dotnet\TicketHub-MS.NET\backend\tickethub\obj\Debug\net9.0\tickethub.csproj.AssemblyReference.cache
+F:\Project\Code\Dotnet\TicketHub-MS.NET\backend\tickethub\obj\Debug\net9.0\tickethub.GeneratedMSBuildEditorConfig.editorconfig
+F:\Project\Code\Dotnet\TicketHub-MS.NET\backend\tickethub\obj\Debug\net9.0\tickethub.AssemblyInfoInputs.cache
+F:\Project\Code\Dotnet\TicketHub-MS.NET\backend\tickethub\obj\Debug\net9.0\tickethub.AssemblyInfo.cs
+F:\Project\Code\Dotnet\TicketHub-MS.NET\backend\tickethub\obj\Debug\net9.0\tickethub.csproj.CoreCompileInputs.cache
+F:\Project\Code\Dotnet\TicketHub-MS.NET\backend\tickethub\obj\Debug\net9.0\tickethub.MvcApplicationPartsAssemblyInfo.cache
+F:\Project\Code\Dotnet\TicketHub-MS.NET\backend\tickethub\obj\Debug\net9.0\tickethub.sourcelink.json
+F:\Project\Code\Dotnet\TicketHub-MS.NET\backend\tickethub\obj\Debug\net9.0\scopedcss\bundle\tickethub.styles.css
+F:\Project\Code\Dotnet\TicketHub-MS.NET\backend\tickethub\obj\Debug\net9.0\staticwebassets.build.json
+F:\Project\Code\Dotnet\TicketHub-MS.NET\backend\tickethub\obj\Debug\net9.0\staticwebassets.development.json
+F:\Project\Code\Dotnet\TicketHub-MS.NET\backend\tickethub\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+F:\Project\Code\Dotnet\TicketHub-MS.NET\backend\tickethub\obj\Debug\net9.0\staticwebassets\msbuild.tickethub.Microsoft.AspNetCore.StaticWebAssets.props
+F:\Project\Code\Dotnet\TicketHub-MS.NET\backend\tickethub\obj\Debug\net9.0\staticwebassets\msbuild.tickethub.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+F:\Project\Code\Dotnet\TicketHub-MS.NET\backend\tickethub\obj\Debug\net9.0\staticwebassets\msbuild.build.tickethub.props
+F:\Project\Code\Dotnet\TicketHub-MS.NET\backend\tickethub\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.tickethub.props
+F:\Project\Code\Dotnet\TicketHub-MS.NET\backend\tickethub\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.tickethub.props
+F:\Project\Code\Dotnet\TicketHub-MS.NET\backend\tickethub\obj\Debug\net9.0\staticwebassets.pack.json
+F:\Project\Code\Dotnet\TicketHub-MS.NET\backend\tickethub\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+F:\Project\Code\Dotnet\TicketHub-MS.NET\backend\tickethub\obj\Debug\net9.0\tickethub.csproj.Up2Date
+F:\Project\Code\Dotnet\TicketHub-MS.NET\backend\tickethub\obj\Debug\net9.0\tickethub.dll
+F:\Project\Code\Dotnet\TicketHub-MS.NET\backend\tickethub\obj\Debug\net9.0\refint\tickethub.dll
+F:\Project\Code\Dotnet\TicketHub-MS.NET\backend\tickethub\obj\Debug\net9.0\tickethub.pdb
+F:\Project\Code\Dotnet\TicketHub-MS.NET\backend\tickethub\obj\Debug\net9.0\tickethub.genruntimeconfig.cache
+F:\Project\Code\Dotnet\TicketHub-MS.NET\backend\tickethub\obj\Debug\net9.0\ref\tickethub.dll
+F:\Project\Code\Dotnet\TicketHub-MS.NET\backend\tickethub\bin\Debug\net9.0\Newtonsoft.Json.dll
+F:\Project\Code\Dotnet\TicketHub-MS.NET\backend\tickethub\bin\Debug\net9.0\BouncyCastle.Crypto.dll
+F:\Project\Code\Dotnet\TicketHub-MS.NET\backend\tickethub\bin\Debug\net9.0\Razorpay.dll
+F:\Project\Code\Dotnet\TicketHub-MS.NET\backend\tickethub\bin\Debug\net9.0\BCrypt.Net-Next.dll
