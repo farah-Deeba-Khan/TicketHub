@@ -70,7 +70,7 @@ export default function SignUp() {
             closeModel("signupModal");
         } catch (error) {
             // console.log(error);
-            toast.error(error.response?.data?.message || "An error occurred");
+            toast.error("An error occurred");
         }
     };
 
